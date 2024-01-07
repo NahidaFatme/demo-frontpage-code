@@ -34,3 +34,46 @@ body{
     border-radius: 5px;
     border: none;
 }
+
+main{
+    padding: 0 206px;
+    justify-content: center;
+}
+
+.main-content{
+    margin-top: 120px;
+    display: flex;
+}
+
+.main-content-details{
+    word-wrap: break-word;
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+.common-headline{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.details2{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 26px;
+}
+
+#details2{
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+#points{
+    margin-bottom: 8px;
+}
+#points > i{
+    padding-right: 12px;
+}
